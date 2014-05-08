@@ -3,7 +3,7 @@ body {
   padding-top: 20px;
   padding-bottom: 20px;
   margin: 20px;
- background: url('../../dist/images/books.jpg');
+ background: url('dist/images/books.jpg');
 }
 
 /* Everything but the jumbotron gets side spacing for mobile first views */
@@ -42,7 +42,7 @@ body {
 @media (min-width: 768px) {
   .container {
     max-width: 730px;
-    
+
   }
 }
 .container-narrow > hr {
